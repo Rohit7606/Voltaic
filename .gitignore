@@ -1,0 +1,12 @@
+# Local Documentation
+AGENTS.md
+PLAN.md
+REPORT.md
+References/
+.gitattributes
+
+# Node
+node_modules/
+.next/
+.env
+.env.local
