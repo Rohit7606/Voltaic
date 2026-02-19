@@ -1,0 +1,51 @@
+🤓 THE NERD: Initiating Physics Stress Test (Chennai -> Ooty)
+🚗 Test Vehicle: MG Motor ZS EV (48 kWh)
+   - Mass: 1620 kg
+   - Cd: 0.29
+   - Area: 2.4 m²
+🗺️  Fetching Route from Mapbox...
+✅ Route Found: 620.9 km, 750 mins
+✂️  Segmenting Route (1km chunks)...
+   - Generated 585 segments
+🏔️  Fetching Real Elevation Data (OpenElevation)...
+......
+✅ Elevation Data Acquired
+🔋 Running Physics Simulation...
+
+📊 --- RESULTS ---
+Total Energy Consumed: 66.15 kWh
+Battery Usage: 137.8%
+Elevation Gain: 3979m
+Max Grade: 11.2%
+Min Grade: -11.5%
+Efficiency: 0.107 kWh/km
+
+⚠️  Critical Segments (Grade > 5%):
+┌─────────┬─────────┬────────┬──────────┬──────────────┬──────────────┐
+│ (index) │ km      │ elev   │ grade    │ energy       │ type         │
+├─────────┼─────────┼────────┼──────────┼──────────────┼──────────────┤
+│ 0       │ '530.0' │ '334'  │ '7.4%'   │ '0.460 kWh'  │ 'CLIMB 🔼'   │
+│ 1       │ '531.0' │ '411'  │ '6.5%'   │ '0.412 kWh'  │ 'CLIMB 🔼'   │
+│ 2       │ '533.0' │ '523'  │ '8.2%'   │ '0.498 kWh'  │ 'CLIMB 🔼'   │
+│ 3       │ '535.0' │ '642'  │ '9.4%'   │ '0.554 kWh'  │ 'CLIMB 🔼'   │
+│ 4       │ '537.0' │ '732'  │ '9.4%'   │ '0.544 kWh'  │ 'CLIMB 🔼'   │
+│ 5       │ '538.0' │ '827'  │ '7.6%'   │ '0.458 kWh'  │ 'CLIMB 🔼'   │
+│ 6       │ '540.0' │ '946'  │ '6.5%'   │ '0.400 kWh'  │ 'CLIMB 🔼'   │
+│ 7       │ '542.0' │ '1011' │ '6.9%'   │ '0.431 kWh'  │ 'CLIMB 🔼'   │
+│ 8       │ '543.0' │ '1082' │ '5.7%'   │ '0.394 kWh'  │ 'CLIMB 🔼'   │
+│ 9       │ '545.0' │ '1180' │ '11.2%'  │ '0.684 kWh'  │ 'CLIMB 🔼'   │
+│ 10      │ '548.0' │ '1357' │ '8.9%'   │ '0.520 kWh'  │ 'CLIMB 🔼'   │
+│ 11      │ '549.0' │ '1447' │ '5.9%'   │ '0.377 kWh'  │ 'CLIMB 🔼'   │
+│ 12      │ '550.0' │ '1507' │ '10.9%'  │ '0.609 kWh'  │ 'CLIMB 🔼'   │
+│ 13      │ '552.0' │ '1638' │ '8.5%'   │ '0.500 kWh'  │ 'CLIMB 🔼'   │
+│ 14      │ '553.0' │ '1724' │ '8.9%'   │ '0.519 kWh'  │ 'CLIMB 🔼'   │
+│ 15      │ '554.0' │ '1814' │ '8.7%'   │ '0.505 kWh'  │ 'CLIMB 🔼'   │
+│ 16      │ '566.0' │ '2057' │ '6.8%'   │ '0.421 kWh'  │ 'CLIMB 🔼'   │
+│ 17      │ '568.0' │ '2084' │ '7.1%'   │ '0.435 kWh'  │ 'CLIMB 🔼'   │
+│ 18      │ '571.0' │ '2187' │ '7.2%'   │ '0.446 kWh'  │ 'CLIMB 🔼'   │
+│ 19      │ '578.0' │ '2464' │ '-11.5%' │ '-0.299 kWh' │ 'DESCEND 🔽' │
+│ 20      │ '580.0' │ '2322' │ '-5.1%'  │ '-0.102 kWh' │ 'DESCEND 🔽' │
+│ 21      │ '581.0' │ '2270' │ '-5.7%'  │ '-0.123 kWh' │ 'DESCEND 🔽' │
+└─────────┴─────────┴────────┴──────────┴──────────────┴──────────────┘
+
+🚨 RESULT: CHARGING REQUIRED! Journey impossible on single charge.

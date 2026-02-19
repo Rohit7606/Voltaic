@@ -1,0 +1,189 @@
+﻿!!! CALCULATE_ROUTE.TS LOADED !!!
+[dotenv@17.2.3] injecting env (6) from .env.local -- tip: ΓÜÖ∩╕Å  specify custom .env file path with { path: '/custom/path/.env' }
+≡ƒÉ₧ Starting Reproduction: Charger Clustering...
+≡ƒÜù Vehicle: Hyundai Ioniq 5 RWD (70 kWh)
+≡ƒôì Trip: Chennai -> Kerala (~500+ km) | Start SoC: 50%
+≡ƒöì [CacheSpy] Querying Bounds: Lat 10.77-13.08, Lng 76.29-80.27
+≡ƒôª [CacheSpy] DB returned 7456 points for this region.
+≡ƒ¢ú∩╕Å Route Legs: 1 Endpoints: [ 629436.938 ]
+≡ƒÜ¿ Panic Triggered at 24.7% SoC
+≡ƒöì Searching for Relief Charger (50kW+) near [12.9122, 79.320867]...
+Γ£à Found Best Charger: LionCharge - Natrampalli (Score: 405.8)
+≡ƒöì [CacheSpy] Querying Bounds: Lat 10.77-13.08, Lng 76.29-80.23
+≡ƒôª [CacheSpy] DB returned 7377 points for this region.
+≡ƒ¢ú∩╕Å Route Legs: 2 Endpoints: [ 236665.531, 624097.781 ]
+[Sim] Dist: 5021, Target: 236666
+[Sim] Dist: 10069, Target: 236666
+[Sim] Dist: 15075, Target: 236666
+[Sim] Dist: 20076, Target: 236666
+[Sim] Dist: 25095, Target: 236666
+[Sim] Dist: 30133, Target: 236666
+[Sim] Dist: 35134, Target: 236666
+[Sim] Dist: 40150, Target: 236666
+[Sim] Dist: 46175, Target: 236666
+[Sim] Dist: 51419, Target: 236666
+[Sim] Dist: 56533, Target: 236666
+[Sim] Dist: 61599, Target: 236666
+[Sim] Dist: 66608, Target: 236666
+[Sim] Dist: 71617, Target: 236666
+[Sim] Dist: 76683, Target: 236666
+[Sim] Dist: 81689, Target: 236666
+[Sim] Dist: 86705, Target: 236666
+[Sim] Dist: 91723, Target: 236666
+[Sim] Dist: 96724, Target: 236666
+[Sim] Dist: 101730, Target: 236666
+[Sim] Dist: 106939, Target: 236666
+[Sim] Dist: 112025, Target: 236666
+[Sim] Dist: 117043, Target: 236666
+[Sim] Dist: 122068, Target: 236666
+[Sim] Dist: 127125, Target: 236666
+[Sim] Dist: 132262, Target: 236666
+≡ƒÜ¿ Panic Triggered at 24.7% SoC
+≡ƒöì Searching for Relief Charger (50kW+) near [12.9122, 79.320867]...
+Γ£à Found Best Charger: Voltaic Superhub - Vellore (Score: 407.3)
+≡ƒöì [CacheSpy] Querying Bounds: Lat 10.77-13.08, Lng 76.29-80.23
+≡ƒôª [CacheSpy] DB returned 7377 points for this region.
+≡ƒ¢ú∩╕Å Route Legs: 3 Endpoints: [ 236665.531, 328443.797, 827272.4850000001 ]
+[Sim] Dist: 5021, Target: 236666
+[Sim] Dist: 10069, Target: 236666
+[Sim] Dist: 15075, Target: 236666
+[Sim] Dist: 20076, Target: 236666
+[Sim] Dist: 25095, Target: 236666
+[Sim] Dist: 30133, Target: 236666
+[Sim] Dist: 35134, Target: 236666
+[Sim] Dist: 40150, Target: 236666
+[Sim] Dist: 46175, Target: 236666
+[Sim] Dist: 51419, Target: 236666
+[Sim] Dist: 56533, Target: 236666
+[Sim] Dist: 61599, Target: 236666
+[Sim] Dist: 66608, Target: 236666
+[Sim] Dist: 71617, Target: 236666
+[Sim] Dist: 76683, Target: 236666
+[Sim] Dist: 81689, Target: 236666
+[Sim] Dist: 86705, Target: 236666
+[Sim] Dist: 91723, Target: 236666
+[Sim] Dist: 96724, Target: 236666
+[Sim] Dist: 101730, Target: 236666
+[Sim] Dist: 106939, Target: 236666
+[Sim] Dist: 112025, Target: 236666
+[Sim] Dist: 117043, Target: 236666
+[Sim] Dist: 122068, Target: 236666
+[Sim] Dist: 127125, Target: 236666
+[Sim] Dist: 132262, Target: 236666
+≡ƒÜ¿ Panic Triggered at 24.7% SoC
+≡ƒöì Searching for Relief Charger (50kW+) near [12.9122, 79.320867]...
+Γ£à Found Best Charger: Voltaic Superhub - Krishnagiri (Score: 409.1)
+≡ƒöì [CacheSpy] Querying Bounds: Lat 10.78-13.08, Lng 76.27-80.23
+≡ƒôª [CacheSpy] DB returned 7377 points for this region.
+≡ƒ¢ú∩╕Å Route Legs: 4 Endpoints: [ 236665.531, 328443.797, 449905.00800000003, 809190.727 ]
+[Sim] Dist: 5021, Target: 236666
+[Sim] Dist: 10069, Target: 236666
+[Sim] Dist: 15075, Target: 236666
+[Sim] Dist: 20076, Target: 236666
+[Sim] Dist: 25095, Target: 236666
+[Sim] Dist: 30133, Target: 236666
+[Sim] Dist: 35134, Target: 236666
+[Sim] Dist: 40150, Target: 236666
+[Sim] Dist: 46175, Target: 236666
+[Sim] Dist: 51419, Target: 236666
+[Sim] Dist: 56533, Target: 236666
+[Sim] Dist: 61599, Target: 236666
+[Sim] Dist: 66608, Target: 236666
+[Sim] Dist: 71617, Target: 236666
+[Sim] Dist: 76683, Target: 236666
+[Sim] Dist: 81689, Target: 236666
+[Sim] Dist: 86705, Target: 236666
+[Sim] Dist: 91723, Target: 236666
+[Sim] Dist: 96724, Target: 236666
+[Sim] Dist: 101730, Target: 236666
+[Sim] Dist: 106939, Target: 236666
+[Sim] Dist: 112025, Target: 236666
+[Sim] Dist: 117043, Target: 236666
+[Sim] Dist: 122068, Target: 236666
+[Sim] Dist: 127125, Target: 236666
+[Sim] Dist: 132262, Target: 236666
+≡ƒÜ¿ Panic Triggered at 24.6% SoC
+≡ƒöì Searching for Relief Charger (50kW+) near [12.9122, 79.320867]...
+Γ£à Found Best Charger: Zeon Charging - Hotel Saravana Bhavan, Krishnagiri (Score: 409.4)
+≡ƒöì [CacheSpy] Querying Bounds: Lat 10.77-13.08, Lng 76.29-80.23
+≡ƒôª [CacheSpy] DB returned 7377 points for this region.
+≡ƒ¢ú∩╕Å Route Legs: 5 Endpoints: [
+  236665.531,
+  328443.797,
+  449905.00800000003,
+  452639.265,
+  808115.1710000001
+]
+[Sim] Dist: 5021, Target: 236666
+[Sim] Dist: 10069, Target: 236666
+[Sim] Dist: 15075, Target: 236666
+[Sim] Dist: 20076, Target: 236666
+[Sim] Dist: 25095, Target: 236666
+[Sim] Dist: 30133, Target: 236666
+[Sim] Dist: 35134, Target: 236666
+[Sim] Dist: 40150, Target: 236666
+[Sim] Dist: 46175, Target: 236666
+[Sim] Dist: 51419, Target: 236666
+[Sim] Dist: 56533, Target: 236666
+[Sim] Dist: 61599, Target: 236666
+[Sim] Dist: 66608, Target: 236666
+[Sim] Dist: 71617, Target: 236666
+[Sim] Dist: 76683, Target: 236666
+[Sim] Dist: 81689, Target: 236666
+[Sim] Dist: 86705, Target: 236666
+[Sim] Dist: 91723, Target: 236666
+[Sim] Dist: 96724, Target: 236666
+[Sim] Dist: 101730, Target: 236666
+[Sim] Dist: 106939, Target: 236666
+[Sim] Dist: 112025, Target: 236666
+[Sim] Dist: 117043, Target: 236666
+[Sim] Dist: 122068, Target: 236666
+[Sim] Dist: 127125, Target: 236666
+[Sim] Dist: 132262, Target: 236666
+≡ƒÜ¿ Panic Triggered at 24.5% SoC
+≡ƒöì Searching for Relief Charger (50kW+) near [12.9122, 79.320867]...
+Γ£à Found Best Charger: Relux Electric - Star Biryani Ambur (Score: 409.8)
+≡ƒöì [CacheSpy] Querying Bounds: Lat 10.78-13.08, Lng 76.28-80.23
+≡ƒôª [CacheSpy] DB returned 7377 points for this region.
+≡ƒ¢ú∩╕Å Route Legs: 6 Endpoints: [
+  236665.531,
+  328443.797,
+  449905.00800000003,
+  452639.265,
+  523866.304,
+  946765.648
+]
+[Sim] Dist: 5021, Target: 236666
+[Sim] Dist: 10069, Target: 236666
+[Sim] Dist: 15075, Target: 236666
+[Sim] Dist: 20076, Target: 236666
+[Sim] Dist: 25095, Target: 236666
+[Sim] Dist: 30133, Target: 236666
+[Sim] Dist: 35134, Target: 236666
+[Sim] Dist: 40150, Target: 236666
+[Sim] Dist: 46175, Target: 236666
+[Sim] Dist: 51419, Target: 236666
+[Sim] Dist: 56533, Target: 236666
+[Sim] Dist: 61599, Target: 236666
+[Sim] Dist: 66608, Target: 236666
+[Sim] Dist: 71617, Target: 236666
+[Sim] Dist: 76683, Target: 236666
+[Sim] Dist: 81689, Target: 236666
+[Sim] Dist: 86705, Target: 236666
+[Sim] Dist: 91723, Target: 236666
+[Sim] Dist: 96724, Target: 236666
+[Sim] Dist: 101730, Target: 236666
+[Sim] Dist: 106939, Target: 236666
+[Sim] Dist: 112025, Target: 236666
+[Sim] Dist: 117043, Target: 236666
+[Sim] Dist: 122068, Target: 236666
+[Sim] Dist: 127125, Target: 236666
+[Sim] Dist: 132262, Target: 236666
+≡ƒÜ¿ Panic Triggered at 24.7% SoC
+Γ£à Result Success. Final SoC: 9.6%
+≡ƒöî Stops Injected: 5
+   1. LionCharge - Natrampalli [12.5700, 78.5000]
+   2. Voltaic Superhub - Vellore [12.9165, 79.1325]
+   3. Voltaic Superhub - Krishnagiri [12.5186, 78.2137]
+   4. Zeon Charging - Hotel Saravana Bhavan, Krishnagiri [12.5266, 78.2146]
+   5. Relux Electric - Star Biryani Ambur [12.7935, 78.7065]

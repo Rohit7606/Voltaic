@@ -1,0 +1,10 @@
+🚀 STARTING MG WINDSOR DEBUG TEST
+
+---------------------------------------------------------
+🧪 TEST: MG Windsor Zig-Zag Debug
+🏁 Stops Required: 5
+   1. Mahabalipuram Fast Charger (Dist: 0.0km, Lat: 12.6208, Lng: 80.1945)
+   2. Shell Recharge - ECR (Dist: 0.0km, Lat: 12.554, Lng: 80.145)
+   3. Zeon Charging - Vaniyambadi | A2B NH 48 (Dist: 0.0km, Lat: 11.750757, Lng: 79.76104)
+   4. Zeon Charging - Thanjavur | Svatma (Dist: 0.0km, Lat: 10.786627, Lng: 79.13857)
+   5. Zeon Charging - Madurai | Courtyard by Marriott (Dist: 0.0km, Lat: 9.918035, Lng: 78.11834)

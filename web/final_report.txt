@@ -1,0 +1,39 @@
+🚀 STARTING COMPREHENSIVE ROUTE TESTS
+
+---------------------------------------------------------
+🧪 TEST: Chennai -> Cochin
+🚗 Vehicle: Nexon.ev LR (Range: ~156km +)
+🏁 Stops Required: 5
+   1. Zeon Charging - A2B Vellore (Dist: 0.0km)
+   2. Zeon Charging - Yercaud | Sterling (Dist: 0.0km)
+   3. Zeon Charging - Salem | Radisson Salem (Dist: 0.0km)
+   4. Voltaic Superhub - Salem (Dist: 0.0km)
+   5. Zeon Charging - A2B Rasipuram (Dist: 0.0km)
+✅ Simulation Plausible.
+
+---------------------------------------------------------
+🧪 TEST: Bangalore -> Goa
+🚗 Vehicle: Ioniq 5 RWD (Range: ~280km +)
+🏁 Stops Required: 0
+❌ FAILED: 0 stops for a long trip? Impossible.
+
+---------------------------------------------------------
+🧪 TEST: Chennai -> Trichy (Low Battery Start)
+🚗 Vehicle: Nexon.ev LR (Range: ~156km +)
+🏁 Stops Required: 4
+   1. Zeon Charging - Alwarpet | The Raintree, Chennai (Dist: 0.0km)
+   2. Zeon Charging - Chennai | Express Avenue Mall (Dist: 0.0km)
+   3. Zeon Charging - Mahabalipuram | Radisson Blu (Dist: 0.0km)
+   4. Zeon Charging - Tindivanam | A2B NH 32 (Dist: 0.0km)
+✅ Simulation Plausible.
+
+---------------------------------------------------------
+🧪 TEST: Chennai -> Kanyakumari (BYD Seal 50%)
+🚗 Vehicle: Seal AWD (Range: ~320km +)
+🏁 Stops Required: 5
+   1. Ather Grid - Pondy Border (Dist: 0.0km)
+   2. Zeon Charging - Pondicherry | Accord Puducherry (Dist: 0.0km)
+   3. Zeon Charging - Pondicherry | Promenade (Dist: 0.0km)
+   4. Zeon Charging - Attur | A2B NH 79, Tamil Nadu (Dist: 0.0km)
+   5. Zeon Charging - Tindivanam | A2B NH 32 (Dist: 0.0km)
+✅ Simulation Plausible.
