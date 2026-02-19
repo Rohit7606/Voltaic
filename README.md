@@ -1,5 +1,7 @@
 # Voltaic - EV Journey Intelligence Platform ⚡
 
+<img width="1920" height="1440" alt="Image" src="https://github.com/user-attachments/assets/37915a12-9345-4c6d-84c0-543150eed889" />
+
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
 ![Next JS](https://img.shields.io/badge/Next-16-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
