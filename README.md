@@ -254,5 +254,5 @@ This ensures that driving a Tata Nexon EV through Rajasthan in 44°C heat is cor
 
 <p align="center">
   <strong>Eliminating Range Anxiety. Accelerating India's EV Future.</strong><br>
-  Built with ⚡ by Rohit
+  Built with ⚡ by Rohit!
 </p>
