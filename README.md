@@ -1,6 +1,6 @@
 # Voltaic — EV Journey Intelligence Platform ⚡
 
-<img width="1920" height="1440" alt="Image" src="https://github.com/user-attachments/assets/37915a12-9345-4c6d-84c0-543150eed889" />
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/7c830707-4907-4659-8b48-73465a8957e9" />
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -69,6 +69,8 @@ Voltaic uses a **"Journey Intelligence Platform" Architecture**. Unlike generic 
 
 *High-level system architecture showing data flow from user input to physics-backed route intelligence*
 
+<img width="1693" height="929" alt="Image" src="https://github.com/user-attachments/assets/53eeb882-a336-46e0-8e93-7b2b333c8034" />
+
 1. **Journey Input:** User enters origin, destination, current vehicle, and battery State of Charge (SoC %). The Mapbox Geocoding API resolves location names to coordinates.
 2. **Route Geometry:** The Mapbox Directions API fetches the full GeoJSON route polyline, segmented into uniform 5km chunks for physics analysis.
 3. **Environmental Data Layer:** Elevation data is resolved via a two-tier cache (L1 in-memory → L2 PostgreSQL). Live weather (temperature, wind, rain) is fetched from OpenWeatherMap at the route midpoint.
@@ -116,25 +118,22 @@ Voltaic uses a **"Journey Intelligence Platform" Architecture**. Unlike generic 
 
 ## 📸 System Visuals
 
-### 1. Route Planner & Journey Intelligence Report
-*The core product page — a full-screen Mapbox map with an overlay control panel showing the route, energy breakdown, Trust Score badge, and auto-injected charging stops.*
+### 1. Economics & TCO Dashboard
+*State-wise electricity tariff comparison, animated monthly savings KPI cards, CO₂ avoidance metrics, and a breakeven period calculator — EV vs. ICE, per state, per vehicle.*
 
-<!-- Add screenshot: Route Planner with map, energy breakdown card, and Trust Score -->
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/03c9536f-e3d0-4b6b-8c79-dc395d45d700" />
 
 ### 2. Elevation Profile & Energy Consumption Chart
 *A Recharts area chart overlaying altitude vs. distance with segment-by-segment energy consumption — visualizing exactly where the Western Ghats or a steep highway ramp costs the battery.*
 
-<!-- Add screenshot: Elevation profile with energy overlay chart -->
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/fc936e48-cc11-42b3-a2e1-fbf7bda0bafa" />
 
 ### 3. EV Comparison Garage
 *Head-to-head comparison of up to 3 Indian-market EVs — real-world range vs. ARAI range, battery specs, charging speeds, and pricing. Cloud-synced for authenticated users.*
 
-<!-- Add screenshot: Garage page with 2-3 vehicle comparison cards -->
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/c69789a9-f077-4561-aa88-5646d9daa726" />
 
-### 4. Economics & TCO Dashboard
-*State-wise electricity tariff comparison, animated monthly savings KPI cards, CO₂ avoidance metrics, and a breakeven period calculator — EV vs. ICE, per state, per vehicle.*
 
-<!-- Add screenshot: Economics page with KPI cards and cost comparison bars -->
 
 ---
 
@@ -254,5 +253,5 @@ This ensures that driving a Tata Nexon EV through Rajasthan in 44°C heat is cor
 
 <p align="center">
   <strong>Eliminating Range Anxiety. Accelerating India's EV Future.</strong><br>
-  Built with ⚡ by Rohit!
+  Built with ❤️ by Rohit!
 </p>
